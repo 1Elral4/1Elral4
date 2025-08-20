@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Data Engineering/Analytics Engineering**
 - 🌱 I’m learning **Spark, Databricks, Big Data pipelines**
 
-- 📫 How to reach me: **[Email / LinkedIn / Twitter]**
+- 📫 How to reach me: **[Connect with me](#-connect-with-me)**
 - ⚡ Fun fact: I love **Learning / DJing / Erging**
 
 <br>
@@ -21,6 +21,8 @@ Check out my projects and case studies: [My Portfolio](https://github.com/1Elral
 ### 🛠 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 
 ### ⚡ Big Data & Cloud
