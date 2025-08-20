@@ -8,7 +8,13 @@
 - 📫 How to reach me: **[Email / LinkedIn / Twitter]**
 - ⚡ Fun fact: I love **Learning / DJing / Erging**
 
----
+<br>
+
+## 🌐 Portfolio
+Check out my projects and case studies: [My Portfolio](https://github.com/1Elral4/my-portfolio)
+
+<br>
+
 
 ## 💻 Tech Stack
 
@@ -30,6 +36,20 @@
 ![dbt](https://img.shields.io/badge/dbt-FF0000?style=for-the-badge&logo=dbt-labs&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+<br>
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/daniel-guerra-carvajal-bb3151103/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1elral4)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan.guerra.car@gmail.com)
+
+
+<br>
+
+“Data is the new oil, but insights are the real treasure.”
+
+<br>
+
 ---
 
 ## 📈 GitHub Stats
@@ -40,14 +60,4 @@
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1Elral4&layout=compact&theme=radical)
 
----
-
-## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/daniel-guerra-carvajal-bb3151103/))
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/1elral4)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dan.guerra.car@gmail.com)
-
----
-
-✨ “Data is the new oil, but insights are the real treasure.”
-
+<br>
